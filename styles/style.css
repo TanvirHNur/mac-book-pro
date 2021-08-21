@@ -1,0 +1,56 @@
+/*-------- google font import link  ------*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+
+
+/*------------------
+ commont styles
+------------------*/
+* {
+font-family: 'Montserrat', sans-serif;     /* CSS rules to specify families */
+}
+
+
+/*------------------
+ section: 01 mac book 
+--------------------*/
+.my-btn{
+    padding: 6px 12px;
+    border: 1px solid rgba(0, 0, 0, 0.226);
+    border-radius: 10px;
+    margin: 2px 2px 3px 0;
+
+}
+.my-btn:hover{
+    background-color: black;
+    color: #fff;
+    transition: 1s;
+    border: 1px solid black;
+}
+
+.bold-hr{
+    border: black 2px solid;
+
+}
+
+
+#apply-btn{
+    padding: 6px 12px;
+    border: 1px solid #00c88f;
+    border-radius: 10px;
+    margin: 2px 2px 3px 4px;
+    color: #FFF;
+    background-color: #ff0000;
+
+}
+#apply-btn:hover{
+    background-color: 00c88f;
+    color: #fff;
+    transition: 1s;
+    background-color: #00c88f;
+}
+
+
+/* -------------------
+You've all been very supportive, patient, and you've given us so much.Thank you all
+----------------------*/
